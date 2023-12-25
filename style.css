@@ -2,4 +2,72 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+
+  justify-content: center;
+
+  background: white;
 }
+
+div {
+margin: auto;
+}
+
+a {
+  background: rgba(224, 74, 74, 0.281);
+  margin: 0 auto;
+  display: ;
+
+}
+#link1 {
+  text-align: center;
+
+}
+
+#header {
+text-align: center;
+}
+
+#image {
+    display: block;
+    margin: 0 auto;
+    }
+    #imgCaption {
+text-align: center;
+font-size: small;
+    }
+
+    #Paragraph {
+      width: 800px;
+      text-align: center;
+
+    }
+
+    #contact{
+      float: left;
+      margin: 120px;
+      text-align: center;
+      background: orange;
+    }
+
+    #Correspondence{
+      float: left;
+      margin: 120px;
+      text-align: center;
+      background: orange;
+    }
+
+    #links{
+      float: left;
+      margin: 120px;
+      text-align: center;
+      background: orange;
+    }
+    #Follow{
+      float: left;
+      margin: 120px;
+      text-align: center;
+      background: orange;
+    }
+    #details{
+      background: orange;
+    }
